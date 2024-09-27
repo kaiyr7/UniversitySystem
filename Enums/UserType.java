@@ -1,0 +1,11 @@
+package Enums;
+
+public enum UserType {
+	STUDENT,
+	TEACHER,
+	MANAGER,
+	RECTOR,
+	TECHSUPPORTSPECIALIST,
+	ADMIN,
+	RESEARCHER
+}
